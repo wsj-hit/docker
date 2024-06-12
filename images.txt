@@ -2,5 +2,6 @@ alpine
 python:alpine3.19
 kasmweb/nginx:1.25.3
 vaultwarden/server:latest
+neo4j
 --platform linux/arm64 cooderl/wewe-rss-sqlite:latest
 
