@@ -5,4 +5,4 @@ vaultwarden/server:latest
 neo4j
 docker.io/bitnami/kafka:3.7
 --platform linux/arm64 cooderl/wewe-rss-sqlite:latest
-
+jenkins/jenkins:lts
